@@ -22,12 +22,6 @@ This project establishes a rigorous, production-ready statistical forecasting fr
 <img width="590" height="579" alt="image" src="https://github.com/user-attachments/assets/bffcac56-241f-44e2-b8dd-cc3065776709" />
 
 
-
-### Identifying Seasonal Differences to Model Seasonality and Trends
-* **Objective:** Mathematically evaluate the structural relationship between the baseline trend and seasonal variations (Additive vs. Multiplicative structural properties).
-
-
-
 ### Deseasonalizing the Model
 * **Objective:** Strip away cyclical seasonal noise to isolate and track the true underlying growth or contraction trend.
 <img width="590" height="576" alt="image" src="https://github.com/user-attachments/assets/f0af41a2-3342-49ab-9ff4-311915476920" />
