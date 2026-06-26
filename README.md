@@ -18,6 +18,7 @@ This project establishes a rigorous, production-ready statistical forecasting fr
 
 ### Determining the Significance of the Seasonality
 * **Objective:** Verify whether recurring seasonal spikes are statistically meaningful or merely random fluctuations.
+<img width="797" height="167" alt="image" src="https://github.com/user-attachments/assets/fb3d001b-24cd-4c8b-b600-d37c1bd054f5" />
 <img width="590" height="579" alt="image" src="https://github.com/user-attachments/assets/bffcac56-241f-44e2-b8dd-cc3065776709" />
 
 
@@ -34,6 +35,7 @@ This project establishes a rigorous, production-ready statistical forecasting fr
 
 ### Applying the Least Squares Method (Model Estimation)
 * **Objective:** Execute the statistical estimation engine to compute optimized parameters and assess model fitness weights.
+<img width="436" height="284" alt="image" src="https://github.com/user-attachments/assets/f64739c9-95bb-45b3-9185-8131e396bc6e" />
 <img width="591" height="577" alt="image" src="https://github.com/user-attachments/assets/0a155bfa-db56-4afb-9cd4-0f91ac663d32" />
 
 
